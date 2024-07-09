@@ -1,4 +1,4 @@
-# Ecommerce-sales-analytics-and-forecasting-project
+# Ecommerce-sales-analytics-and-forecasting Data Engineering project.
 
 This is a data analytics and prediction project which is executed in Microsoft Azure services. 
 
