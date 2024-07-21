@@ -16,6 +16,6 @@ Azure services used:
 Steps:
 
 1) Create a data ingesting pipeline using Azure Data Factory.
-2) Clean the ingested data in Azure Databricks Notebook using pyspark: find the code in "data cleaning" folder.
+2) Clean the ingested data in Azure Databricks Notebook using pyspark: find the code in "data cleaning and transformation" folder.
 3) Perform descriptive analysis on the cleaned data in Azure Synapse analytics: find the code in "cleaned data" folder.
 4) Perform predictive analytics using Azure Machine Learning service or on-premise option using the code in the folder: "preprocessed data"
