@@ -1,4 +1,4 @@
-# Ecommerce sales analytics and forecasting project. [Walmart Sales Dataset]
+# Ecommerce Sales Analytics and Forecasting Project [Walmart Sales Dataset]
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,6 +9,8 @@
 - [Feature Engineering](#feature-engineering)
 - [Modeling & Evaluation](#modeling--evaluation)
 - [Results](#results)
+- [Descriptive Analytics & Feature Engineering](#descriptive-analytics--feature-engineering)
+- [Prediction Analysis](#prediction-analysis)
 - [Conclusion & Future Work](#conclusion--future-work)
 - [How to Run the Project](#how-to-run-the-project)
 
@@ -59,6 +61,38 @@ Both models were evaluated using:
 - Feature importance analysis revealed that **Store Size**, **CPI**, and **Unemployment** were key drivers of sales performance.
 - Visualizations highlighted sales spikes during holidays and promotional periods.
 
+### Descriptive Analytics & Feature Engineering
+Here are some of the key visualizations generated during the exploratory data analysis (EDA) and feature engineering phase. These images highlight trends, distributions, and relationships in the data.
+
+**Examples**:
+1. Sales trends over time.
+   ![Sales Trends](path_to_your_image/sales_trends.png)
+   
+2. Sales distribution by store size.
+   ![Store Size Distribution](path_to_your_image/store_size_distribution.png)
+
+3. Correlation heatmap of features.
+   ![Correlation Heatmap](path_to_your_image/correlation_heatmap.png)
+
+4. Time-series breakdown by week, month, and year.
+   ![Time Series Breakdown](path_to_your_image/time_series_breakdown.png)
+
+### Prediction Analysis
+Here are the visualizations related to the prediction analysis, model evaluation, and performance comparison.
+
+**Examples**:
+1. Actual vs. Predicted Sales.
+   ![Actual vs Predicted Sales](path_to_your_image/actual_vs_predicted_sales.png)
+
+2. Feature importance from the Random Forest model.
+   ![Feature Importance](path_to_your_image/feature_importance.png)
+
+3. Residuals plot for the model evaluation.
+   ![Residuals Plot](path_to_your_image/residuals_plot.png)
+
+4. RMSE and MAE comparison between models.
+   ![Model Comparison](path_to_your_image/model_comparison.png)
+
 ### Conclusion & Future Work
 This project successfully demonstrated that machine learning can significantly improve the accuracy of sales forecasts. Future work could include:
 - Adding external data such as economic indicators or competitor pricing.
@@ -67,5 +101,4 @@ This project successfully demonstrated that machine learning can significantly i
 ### How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/GauravIngle26/Ecommerce-sales-analytics-and-forecasting-project.git]
-
+   git clone https://github.com/GauravIngle26/Ecommerce-sales-analytics-and-forecasting-project.git
