@@ -19,6 +19,13 @@
 ### Introduction
 This project focuses on predicting weekly sales for Walmart stores to help the company optimize inventory management, staffing, and promotional strategies. We utilized historical sales data and built machine learning models to forecast sales trends.
 
+#### Data Engineering Architecture
+The data pipeline for this project follows a modern data engineering architecture, utilizing cloud-based services for efficient data integration, transformation, and analytics. The process begins with raw data collection, followed by transformations in Azure Databricks, and finally performing analytics in Azure Synapse Analytics. The final output can be visualized using BI tools such as Power BI, Looker Studio, and Tableau.
+
+![Data Engineering Architecture](Project_Data_Engineering_Arch.png)
+
+---
+
 ### Problem Statement
 Retailers like Walmart depend heavily on accurate sales predictions to plan inventory levels, staffing, and promotions. Inaccurate predictions can lead to stockouts, overstock, and financial loss. The goal of this project is to create an efficient predictive model that accurately forecasts weekly sales.
 
