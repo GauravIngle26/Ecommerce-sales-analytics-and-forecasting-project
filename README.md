@@ -68,5 +68,5 @@ This project successfully demonstrated that machine learning can significantly i
 ### How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [repo link]
+   git clone [https://github.com/GauravIngle26/Ecommerce-sales-analytics-and-forecasting-project.git]
 
