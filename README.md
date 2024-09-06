@@ -87,11 +87,6 @@ Here are the visualizations related to the prediction analysis, model evaluation
 2. Feature importance from the Random Forest model.
    ![Feature Importance](path_to_your_image/feature_importance.png)
 
-3. Residuals plot for the model evaluation.
-   ![Residuals Plot](path_to_your_image/residuals_plot.png)
-
-4. RMSE and MAE comparison between models.
-   ![Model Comparison](path_to_your_image/model_comparison.png)
 
 ### Conclusion & Future Work
 This project successfully demonstrated that machine learning can significantly improve the accuracy of sales forecasts. Future work could include:
