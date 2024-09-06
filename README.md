@@ -11,7 +11,6 @@
 - [Results](#results)
 - [Conclusion & Future Work](#conclusion--future-work)
 - [How to Run the Project](#how-to-run-the-project)
-- [Contact](#contact)
 
 ---
 
