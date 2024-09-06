@@ -66,26 +66,36 @@ Here are some of the key visualizations generated during the exploratory data an
 
 **Examples**:
 1. Sales trends over time.
-   ![Sales Trends](path_to_your_image/sales_trends.png)
+   ![Sales Trends](Analytics_Images/avg_weekly_sales.png)
+
+   ![Total and average weekly sales per store](Analytics_Images/Total_and_avg_weekl_sales_per_store.png)
+
+   ![Total and average weekly sales per department](Analytics_Images/Total_and_avg_weekl_sales_per_dept.png)
    
 2. Sales distribution by store size.
-   ![Store Size Distribution](path_to_your_image/store_size_distribution.png)
+   ![Store Size Distribution](Analytics_Images/Store_size_dist_type.png)
 
 3. Correlation heatmap of features.
-   ![Correlation Heatmap](path_to_your_image/correlation_heatmap.png)
+   ![Correlation Heatmap](Analytics_Images/features_HM.png)
 
-4. Time-series breakdown by week, month, and year.
-   ![Time Series Breakdown](path_to_your_image/time_series_breakdown.png)
+4. Feature Importance.
+   ![Feature Importance Bar Graph](Analytics_Images/feature_imp.png)
 
 ### Prediction Analysis
 Here are the visualizations related to the prediction analysis, model evaluation, and performance comparison.
 
 **Examples**:
-1. Actual vs. Predicted Sales.
-   ![Actual vs Predicted Sales](path_to_your_image/actual_vs_predicted_sales.png)
+1. Two week rolling mean and standard deviation:
+   ![2 week rolling](Analytics_Images/two_week_rolling_mean_std_dev.png)
 
-2. Feature importance from the Random Forest model.
-   ![Feature Importance](path_to_your_image/feature_importance.png)
+1. Trend, Seasonal and random analysis.
+   ![Trend, Seasonal and random analysis](Analytics_Images/trend_data_seasonal_random.png)
+
+1. Train vs Test data split.
+   ![Train vs Test data split](Analytics_Images/train_test_data.png)      
+
+1. Actual vs. Predicted Sales.
+   ![Actual vs Predicted Sales](Analytics_Images/prediction_weekly_sales_Auto_ARIMA_exp_smooth.png)
 
 
 ### Conclusion & Future Work
