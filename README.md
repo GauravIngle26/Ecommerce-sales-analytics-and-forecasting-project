@@ -1,4 +1,4 @@
-# Ecommerce-sales-analytics-and-forecasting project. [Walmart Sales Dataset]
+# Ecommerce sales analytics and forecasting project. [Walmart Sales Dataset]
 
 ## Table of Contents
 - [Introduction](#introduction)
